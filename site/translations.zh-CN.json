@@ -11023,5 +11023,12 @@
       "调试 HTTPS 时需在手机上安装证书；在 iOS 15 上，工具无法判断请求是否来自浏览器。",
       "许可证：MIT。"
     ]
+  },
+  "xbox360-native-ports": {
+    "name": "Xbox 360 原生移植",
+    "requirements": [
+      "需要所启动游戏的光盘或 XBLA 包。系统为带 Vulkan、gamescope 和 Python 3 的 Linux x86-64，或带 Vulkan 的 64 位 Windows 10 或 11。",
+      "审阅的 README 没有写许可证。"
+    ]
   }
 }
