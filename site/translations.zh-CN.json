@@ -11023,5 +11023,12 @@
       "调试 HTTPS 时需在手机上安装证书；在 iOS 15 上，工具无法判断请求是否来自浏览器。",
       "许可证：MIT。"
     ]
+  },
+  "cse2": {
+    "name": "CSE2",
+    "requirements": [
+      "需要 CMake。主机移植需要数据文件夹。",
+      "许可证：修改和自定义代码为 MIT，见 LICENCE.txt。反编译出的游戏代码属于 Daisuke Amaya。"
+    ]
   }
 }
