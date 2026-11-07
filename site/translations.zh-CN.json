@@ -11023,5 +11023,12 @@
       "调试 HTTPS 时需在手机上安装证书；在 iOS 15 上，工具无法判断请求是否来自浏览器。",
       "许可证：MIT。"
     ]
+  },
+  "supermetroid-disasm": {
+    "name": "超级密特罗德反汇编",
+    "requirements": [
+      "需要 CMake 2.8.9 或更高版本、GNU Make 或 nmake，以及 GCC、Clang 或 MSVC。",
+      "审阅的 README 没有写许可证。"
+    ]
   }
 }
